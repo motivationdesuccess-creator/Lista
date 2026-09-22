@@ -1,0 +1,15 @@
+#EXTM3U url-tvg="https://epg.kodi.game/epg_br.xml"
+
+# --- ABA: CANAIS AO VIVO ---
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="Globo Subaé" tvg-logo="https://i.postimg.cc/G2fhQGDm/images-(87).jpg" group-title="Canais | Abertos", Globo Ao Vivo
+https://live-cm-ah-22-17.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtY20tYWgtMjItMTcudmlkZW8uZ2xvYm8uY29tIiwiZXhwIjoxNzkwMTEzOTEyLCJpYXQiOjE3OTAwOTIzMTIsImlzcyI6InBsYXliYWNrLWFwaS1wcm9kLWdjcCIsIm93bmVyIjoiNDUxMWI5MjctM2Y3Ni00ODk5LThhM2ItMGVmZTljZjA3NjMyIiwicGF0aCI6Ii9saXZlL2YoYk1heD0yMjYyOTc2LGk9MikvZ2xvYm8tZmVpL3BsYXlsaXN0Lm0zdTgifQ.hEpWcCBdqkVpKJZRdK5OzOIh7XSpMP_Pblvi9ZaEcY-ysYm2q7EXeSiFJhc18FhBWOPFcddsjX_Wv8UVG8rYgguPRg5BSEnJlwyrAQAWubBaTB1ld8UFyYBFZOnllW8f163LFE_CJGjeUArDxbVh1U9OQJ0ORjDTD04J8gItWSrBu9zvg4rGtEE-k4XbRdZ4uvy7QBZYGzT54kPgv1_bdTDyjDvHyscZ5jK1W7a78XTWWCr5r8tUNDPDhqLhNnrFn_9xfZtLN6HqkXjTu5aL4vo-B4IYhcDAWk0UyVDssR9MFsJODoYldlGtGYF9ZYVyitD_Aklv7Ww2l3qFoKG_fQ/live/f(bMax=2262976,i=2)/globo-fei/globo-fei-audio_1=96000-video=1476992.m3u8
+
+# --- ABA: FILMES ---
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NMnf4mX9/maxresdefault-(2).jpg" group-title="Músicas | Marília Mendonça", Love a Queima Roupa
+https://drive.google.com/uc?export=view&id=1y9TB8-Ev_7SuLOB6UhdwSbeQunLzXwsX
+
+# --- ABA: SÉRIES ---
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nzWckBms/2024-4207-tapas-beijos-poster-(1).jpg" group-title="Séries | Tapas e Beijos" tvg-name="Tapas e Beijos S01E01", Tapas e Beijos S01E01 - As Aventuras
+https://drive.google.com/uc?export=view&id=1rdRnMUY-hD0f17NWluUA2L5QsUvV8sMk
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hr1BKf3.png" group-title="Séries | Tapas e Beijos" tvg-name="Tapas e Beijos S01E02", Tapas e Beijos S01E02 - Segundo Episódio
