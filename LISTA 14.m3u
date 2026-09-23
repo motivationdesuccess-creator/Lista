@@ -1,0 +1,17 @@
+#EXTM3U url-tvg="https://iptv-epg.org/files/epg-br.xml" x-tvg-url="https://iptv-epg.org/files/epg-br.xml"
+--- CANAIS AO VIVO ---
+#EXTINF:-1 tvg-id="Globo Brasil BR" tvg-name="Globo Brasil" tvg-logo="https://drive.google.com/uc?export=view&id=1HckFsuX7fTzEUv4ooSENb7fLhKg7EH6r" tvg-chno="2" tvg-country="BR" group-title="Canais | Globo Regionais",Globo Brasil
+https://live-ancdn-04.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtYW5jZG4tMDQudmlkZW8uZ2xvYm8uY29tIiwiZXhwIjoxNzkwMjIzNDg2LCJpYXQiOjE3OTAyMDE4ODYsImlzcyI6InBsYXliYWNrLWFwaS1wcm9kLWdjcCIsIm93bmVyIjoiMTkwZTZiNTUtZDIzYi00NmVlLTk2ZTctMTFkODVkNTZjMmExIiwicGF0aCI6Ii9saXZlL2YoYk1heD0yMjYyOTc2LGk9MikvZ2xvYm8tZmVpL3BsYXlsaXN0Lm0zdTgifQ.OWwMdyWK-C__LqiKYEhh4rsk3-GB15PNMQ0iwL8Avsl3mI_1fww2S1oboGqf2naJ8rUbNE3KhbRl8wbioF-D0fHDqos-PFwyGNqTTsALrhKnEwp9-maECJcRcpcynspq6eiBh-zLzCWltLhECz-iea3cE9aIG9cQVzPaxrY3gAMuog5TT1l8PjTRgec2qaglogScRNN_xZbTwdXaz_XcMqjFlTiyKWCsnFYS5fcMuCgNzVZWDMSpNBB4QLjM3g-w16trFDYXZHqJgSk4S_TZzAyE6VXPM6OQzkZuEvOnq7eSdPfP671AixYYwPPT7enBtmuKxSBCkH8_jWRSoisUjg/live/f(bMax=2262976,i=2)/globo-fei/globo-fei-audio_1=96000-video=2262976.m3u8
+
+#EXTINF:-1 tvg-id="Record News BR" tvg-name="Record News" tvg-logo="https://drive.google.com/uc?export=view&id=1aX_MndG7F9sbGXXUaY6Tp4mnD1aL9_SG" tvg-chno="7" tvg-country="BR" group-title="Canais | Notícias",Record News
+https://rnw-rn.otteravision.com/rnw/rn/rnw_rn.m3u8
+
+--- SÉRIES ---
+#EXTINF:-1 tvg-type="serie" tvg-serie="1" tvg-season="1" tvg-episode="1" serie-title="Tapas & Beijos" tvg-logo="https://drive.google.com/uc?export=view&id=1_XB7gC9Ar32mSZeHOxlOWD1S2tQt05hs" group-title="Séries | Globoplay", Tapas & Beijos S01E01
+https://download1640.mediafire.com/dxx9ao91a8ggwmJ1bVnm8E9sdYXf8XaJ8buIehbLxE6Roh7WGP6Agro_SbvWTeDCQCkM6744fbiZZToLlUyBwhng1XKpD6dYcijdPI8A2AdhtgiIHSaDMtHTOyESFb9I0mKkKjNJUpwp4eoKkBBOZQfqiXlDc7molTdL6XQVVSTuoA/vv2m7ujnaott8fh/T1+-+E1+-+Tapas+e+Beijos.mp4
+
+#EXTINF:-1 tvg-type="serie" tvg-serie="1" tvg-season="1" tvg-episode="2" serie-title="Tapas & Beijos" tvg-logo="https://drive.google.com/uc?export=view&id=1_XB7gC9Ar32mSZeHOxlOWD1S2tQt05hs" group-title="Séries | Globoplay", Tapas & Beijos S01E02
+https://download1351.mediafire.com/6y64vc0yvaaghOwOdmbfbYQ4x8AqMf6jbtYYTfM3BklV2hfmOEfQElvCBOtU4GypqqKCi94x4kkEi9gMRANPMyAEpRGn3cWA33hYbqCg17OmlOaj1CxHR5qmGXota6nBymwWZRTmFS-rbSv7tnRjwu5ewOdSQXvFJhEjgNkQh9KRIw/ik1jnthqwfy1013/vod-01_edge-vivo-vg-ba_video_globo_com_j_eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ_eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6InZvZC0wMS5lZGdlLXZpdm8tdmctYmEudmlkZW8uZ2xvYm8uY29tIiwiZXhwIjoxNzkwMTI1MjQ4LCJpYXQiOjE3O_360p.mp4
+
+#EXTINF:-1 tvg-type="serie" tvg-serie="1" tvg-season="1" tvg-episode="1" serie-title="Love a Queima Roupa" tvg-logo="https://drive.google.com/uc?export=view&id=1KAIBqvDPso9eVq8haTMrRQ1QjOYKFMih" group-title="Músicas | Marília Mendonça — Todos os cantos", Love a Queima Roupa S01E01
+https://download1334.mediafire.com/fp5fvj2u6fmg4nwjLz4ruZeGvTax6x4jiudxPdftDddgv_1WjpF5whh1c4QcNLLjLpG5oLk6Ph8rxO0nL0cJOrBYROaqRgpvedCqkN68fXBFsHg45Es7D27FlqWbd6eWH6bZNI_anOND98ANHSMB5CM0IY8o5RakXPwr_DhifSllBw/4m3rrr0ozckpwox/Mar%C3%ADlia+Mendon%C3%A7a+_+Love+%C3%80+Queima+Roupa+_Todos+Os+C_1080p.mp4
