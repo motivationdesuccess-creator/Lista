@@ -1,0 +1,31 @@
+#EXTM3U
+#EXTINF:-1, A&E Brasil http://109.200.202.124:1935/live/ae/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1, AGS TV http://www.aguascalientes.gob.mx/ryta/images/agstv.asx
+#EXTINF:-1, AXN Brasil http://31.204.128.75:1935/live/master52/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1, Bio http://31.204.153.70:1935/live/hd/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1, Boomerang http://31.204.128.140:1935/live/79/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1, Cartoon Network http://77.91.77.22:6607/?sid=4b54285289daac7298b23fa49406p710
+#EXTINF:-1, Caverna do Dragão http://174.36.42.92:1935/ctv/definst/caverna/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1, Cavaleiros do Zodíaco (CDZ) http://174.36.42.92:1935/ctv/definst/cdz/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1, Chaves http://174.36.42.92:1935/ctv/definst/chaves/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1, Comedy Central http://31.204.153.72:1935/live/comedy/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1, Todo Mundo Odeia o Chris http://174.36.42.92:1935/ctv/definst/cris/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1, Prison Break http://174.36.42.92:1935/ctv/definst/prison/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1, Dragon Ball Z (DBZ) http://174.36.42.92:1935/ctv/definst/dbz/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1, Discovery Channel http://31.204.128.73:1935/live/master04/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1, Discovery HD http://109.200.202.124:1935/live/discohd/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1, Discovery Turbo http://109.200.202.124:1935/live/turbo/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1, Disney Channel http://109.200.202.124:1935/live/disney/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1, Disney Channel Alt http://77.91.77.22:6614/?sid=63f0ddb83a5b005530998345nd87709e
+#EXTINF:-1, Disney Junior / Animax http://109.200.202.124:1935/live/animax/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1, Disney XD http://109.200.202.124:1935/live/disneyxd/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1, Drake & Josh http://174.36.42.92:1935/ctv/definst/drake/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1, Esporte Interativo http://94.242.228.41:1935/live/ei/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1, ESPN http://31.204.153.71:1935/live/master06/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1, ESPN Brasil http://31.204.153.71:1935/live/master05/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1, ESPN + http://31.204.128.74:1935/live/master27/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1, Eurosport 2 HD Live http://esioslive4-i.akamaihd.net/hls/live/200736/AL_ESP2_UK_ENG/playlist_1300.m3u8
+#EXTINF:-1, Eu, a Patroa e as Crianças http://174.36.42.92:1935/ctv/definst/patroa/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1, Os Simpsons http://174.36.42.92:1935/ctv/definst/simpsons/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1, Fox Sports Brasil http://31.204.153.72:1935/live/fsb/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1, Canal Futura http://177.43.50.221:8080
