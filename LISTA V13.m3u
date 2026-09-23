@@ -1,0 +1,18 @@
+#EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_BR1.xml.gz"
+
+--- CANAIS AO VIVO ---
+#EXTINF:-1 tvg-id="SBT.br" tvg-name="SBT" tvg-logo="https://i.imgur.com/fbgLU9S.png" tvg-chno="2" tvg-country="BR" group-title="Brazil",SBT Ⓨ
+https://www.youtube.com/watch?v=ABVQXgr2LW4
+
+#EXTINF:-1 tvg-id="RecordNews.br" tvg-name="Record News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/Record_News_logo_2023.svg" tvg-chno="7" tvg-country="BR" group-title="Brazil",Record News
+https://rnw-rn.otteravision.com/rnw/rn/rnw_rn.m3u8
+
+--- SÉRIES ---
+#EXTINF:-1 tvg-type="serie" tvg-serie="1" tvg-season="1" tvg-episode="1" serie-title="Tapas & Beijos" tvg-logo="https://drive.google.com/uc?export=view&id=1_XB7gC9Ar32mSZeHOxlOWD1S2tQt05hs" group-title="Séries | Globoplay", Tapas & Beijos S01E01
+https://download1640.mediafire.com/dxx9ao91a8ggwmJ1bVnm8E9sdYXf8XaJ8buIehbLxE6Roh7WGP6Agro_SbvWTeDCQCkM6744fbiZZToLlUyBwhng1XKpD6dYcijdPI8A2AdhtgiIHSaDMtHTOyESFb9I0mKkKjNJUpwp4eoKkBBOZQfqiXlDc7molTdL6XQVVSTuoA/vv2m7ujnaott8fh/T1+-+E1+-+Tapas+e+Beijos.mp4
+
+#EXTINF:-1 tvg-type="serie" tvg-serie="1" tvg-season="1" tvg-episode="2" serie-title="Tapas & Beijos" tvg-logo="https://drive.google.com/uc?export=view&id=1_XB7gC9Ar32mSZeHOxlOWD1S2tQt05hs" group-title="Séries | Globoplay", Tapas & Beijos S01E02
+https://download1351.mediafire.com/6y64vc0yvaaghOwOdmbfbYQ4x8AqMf6jbtYYTfM3BklV2hfmOEfQElvCBOtU4GypqqKCi94x4kkEi9gMRANPMyAEpRGn3cWA33hYbqCg17OmlOaj1CxHR5qmGXota6nBymwWZRTmFS-rbSv7tnRjwu5ewOdSQXvFJhEjgNkQh9KRIw/ik1jnthqwfy1013/vod-01_edge-vivo-vg-ba_video_globo_com_j_eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ_eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6InZvZC0wMS5lZGdlLXZpdm8tdmctYmEudmlkZW8uZ2xvYm8uY29tIiwiZXhwIjoxNzkwMTI1MjQ4LCJpYXQiOjE3O_360p.mp4
+
+#EXTINF:-1 tvg-type="music" tvg-logo="https://drive.google.com/uc?export=view&id=1KAIBqvDPso9eVq8haTMrRQ1QjOYKFMih" group-title="Músicas | Marília Mendonça — Todos os cantos", Love a Queima Roupa
+https://drive.google.com/uc?export=download&id=1y9TB8-Ev_7SuLOB6UhdwSbeQunLzXwsX
